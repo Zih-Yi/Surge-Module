@@ -1,2 +1,2 @@
-# Surge-Module
-Personal use module.
+# Surge Module
+Modules for personal use.
