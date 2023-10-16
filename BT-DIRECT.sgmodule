@@ -1,0 +1,20 @@
+#!name=BT DIRECT
+#!desc=All BT connections using DIRECT
+
+[Rule]
+# APP
+PROCESS-NAME,Transmission,DIRECT
+PROCESS-NAME,qBittorrent,DIRECT
+PROCESS-NAME,utorrent,DIRECT
+PROCESS-NAME,Deluge,DIRECT
+PROCESS-NAME,Motrix,DIRECT
+PROCESS-NAME,aria2,DIRECT
+PROCESS-NAME,aria2c,DIRECT
+
+# Web
+DOMAIN-SUFFIX,torrent-site.com,DIRECT
+DOMAIN-KEYWORD,bittorrent,DIRECT
+DOMAIN-KEYWORD,bt-tracker,DIRECT
+
+[Rule]
+FINAL,DIRECT
