@@ -1,0 +1,5 @@
+#!name=Bloomberg Use US Proxy
+#!desc=All Bloomberg using US Proxy
+
+[Rule]
+DOMAIN,bloomberg.com,USProxy
