@@ -1,0 +1,6 @@
+#!name=Bloomberg Use SG Proxy
+#!desc=All Bloomberg using SG Proxy
+
+[Rule]
+DOMAIN-SUFFIX,bloomberg.com,SG
+DOMAIN-KEYWORD,bloomberg.com,SG
