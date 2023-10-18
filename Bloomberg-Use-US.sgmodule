@@ -2,4 +2,5 @@
 #!desc=All Bloomberg using US Proxy
 
 [Rule]
-DOMAIN,bloomberg.com,USProxy
+DOMAIN-SUFFIX,bloomberg.com,US
+DOMAIN-KEYWORD,bloomberg.com,US
