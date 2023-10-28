@@ -2,4 +2,4 @@
 #!desc=Local Domain Config
 
 [Host]
-console.vh = 192.168.17.117
+*.vh = 192.168.17.117
