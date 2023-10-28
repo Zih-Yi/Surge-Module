@@ -1,5 +1,5 @@
 #!name=Local Domain Config
 #!desc=Local Domain Config
 
-[Rule]
-DOMAIN,console.vh.lan,192.168.17.117
+[Host]
+console.vh = 192.168.17.117
