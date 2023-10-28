@@ -1,5 +1,5 @@
-#!name=ALL BT DIRECT
-#!desc=All BT connections using DIRECT
+#!name=Local Domain Config
+#!desc=Local Domain Config
 
 [Rule]
-DOMAIN,console.vh,10.0.1.216
+DOMAIN,console.vh,192.168.17.117
