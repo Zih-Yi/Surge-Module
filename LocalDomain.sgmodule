@@ -2,4 +2,4 @@
 #!desc=Local Domain Config
 
 [Rule]
-DOMAIN,console.vh,192.168.17.117
+DOMAIN,console.vh.lan,192.168.17.117
