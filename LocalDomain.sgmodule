@@ -1,0 +1,5 @@
+#!name=ALL BT DIRECT
+#!desc=All BT connections using DIRECT
+
+[Rule]
+DOMAIN,console.vh,10.0.1.216
