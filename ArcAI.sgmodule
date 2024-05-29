@@ -1,0 +1,5 @@
+#!name=Arc AI
+#!desc=Arc AI using OpenAI proxy
+
+[Rule]
+DOMAIN,open-ai-chat-omega.vercel.app,🐱 OpenAI
