@@ -1,0 +1,5 @@
+#!name=MooMoo
+#!desc=MooMoo using OpenAI proxy
+
+[Rule]
+DOMAIN-SUFFIX,cursor.sh,OpenAI
