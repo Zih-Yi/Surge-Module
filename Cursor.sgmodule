@@ -1,5 +1,5 @@
-#!name=MooMoo
-#!desc=MooMoo using OpenAI proxy
+#!name=Cursor
+#!desc=Cursor using OpenAI proxy
 
 [Rule]
-DOMAIN-SUFFIX,cursor.sh,OpenAI
+DOMAIN-SUFFIX,cursor.sh,🐱 OpenAI
