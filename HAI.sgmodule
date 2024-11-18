@@ -1,0 +1,8 @@
+#!name=Cursor
+#!desc=Cursor using OpenAI proxy
+
+[Proxy Group]
+🇸🇬 Singapore-IP = 🇸🇬 Singapore 01,🇸🇬 Singapore 02,🇸🇬 Singapore 03,🇸🇬 Singapore 04,🇸🇬 Singapore 05,🇸🇬 Singapore 06,🇸🇬 Singapore 07,🇸🇬 Singapore 08,🇸🇬 Singapore 09,🇸🇬 Singapore 10,🇸🇬 Singapore 11 [Premium],🇸🇬 Singapore 12
+
+[Rule]
+GEOIP,SG,🇸🇬 Singapore-IP
