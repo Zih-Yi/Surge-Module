@@ -1,6 +1,9 @@
 #!name=Local Domain Config
 #!desc=Local Domain Config
 
+[Rule]
+DOMAIN-SUFFIX,.imac,DIRECT
+
 [Host]
 *.vh.imac = 192.168.17.117
 *.dt.imac = 192.168.17.117
