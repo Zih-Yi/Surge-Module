@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,vh.imac,DIRECT
 DOMAIN-SUFFIX,dt.imac,DIRECT
 DOMAIN-SUFFIX,pis.imac,DIRECT
 DOMAIN-SUFFIX,lp.imac,DIRECT
+DOMAIN-SUFFIX,amazonaws.com,Xbox
 
 [Host]
 *.vh.imac = 192.168.17.117
